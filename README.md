@@ -18,7 +18,7 @@ Modelo de desarrollo XP
 <tr>
   <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
-    
+    Como domiciliaro del local necesito una aplicaci[on que me registre mis pedidos con sus precios, dirección y tiempo.
   </td>
 </tr>
 <tr>
