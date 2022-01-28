@@ -88,14 +88,13 @@ Modelo de desarrollo XP
 
 <table >
 <tr>
-  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de ganancias</td>
-  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>4</td>
+  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de pesupuesto</td>
+  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>5</td>
 </tr>
 <tr>
   <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
-    Se necesita un control de las ventas diarias y totales del mes
-  </td>
+    Se necesita un actualizador del presuuesto para el momento de la compras de mercancia</td>
 </tr>
 <tr>
   <td HEIGHT="50"><strong>Prioridad:</strong></td>
