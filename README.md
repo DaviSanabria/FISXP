@@ -10,13 +10,13 @@ Modelo de desarrollo XP
 
 # Historias de usuario
 
-<table >
+<table>
 <tr>
   <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Creación pedido domicilio</td>
   <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
-  <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
+  <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
     Como domiciliaro del local necesito una aplicación que me registre mis pedidos con sus precios, dirección y tiempo.
   </td>
@@ -35,7 +35,7 @@ Modelo de desarrollo XP
   <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
-  <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
+  <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
     Como administrador se necesita un control de los empleados en cuanto a su horario laboral
   </td>
@@ -53,7 +53,7 @@ Modelo de desarrollo XP
   <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
-  <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
+  <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
     Como administrador se necesita un control de los empleados en cuanto a su horario laboral
   </td>
@@ -70,7 +70,7 @@ Modelo de desarrollo XP
   <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
-  <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
+  <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
     Como administrador se necesita un control de los empleados en cuanto a su horario laboral
   </td>
