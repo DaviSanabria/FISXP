@@ -1,10 +1,12 @@
-# XP Extreme Programing
-Modelo de desarrollo XP
-
 # Integrantes
 
 <p>Johan Sebastian Rincón Amaya - 20172020020 </p>
 <p>Jose David Sanabria Aponte   - 20171020044 </p>
+
+# XP Extreme Programing
+Modelo de desarrollo XP
+
+
 
 # Historias de usuario
 
