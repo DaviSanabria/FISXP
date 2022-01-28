@@ -14,7 +14,7 @@ Modelo de desarrollo XP
   <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
-  <td colspan="2" HEIGHT="300" align="left"><strong>Historia de usuario:</strong>
+  <td colspan="2" HEIGHT="300" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
     
   </td>
