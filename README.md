@@ -1,4 +1,4 @@
-# XP
+# XP Extreme Programing
 Modelo de desarrollo XP
 
 # Integrantes
