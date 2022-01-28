@@ -20,7 +20,7 @@ Modelo de desarrollo XP
   </td>
 </tr>
 <tr>
-  <td><strong>Prioridad:</strong></td>
+  <tdWIDTH="300" HEIGHT="50"><strong>Prioridad:</strong></td>
   <td><strong>Estimacion</strong>(Dias):</td>
 </tr>
 </table>
