@@ -8,7 +8,7 @@ Modelo de desarrollo XP
 
 # Historias de usuario
 
-<table whidt= 400>
+<table width= 400>
 <tr>
   <td><strong>Título:</strong>123</td>
   <td><strong>Id:</strong>1</td>
