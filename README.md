@@ -10,8 +10,8 @@ Modelo de desarrollo XP
 
 <table >
 <tr>
-  <td WIDTH="300" HEIGHT="50"><strong>Título:</strong>123</td>
-  <td><strong>Id:</strong>1</td>
+  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>123</td>
+  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
 </tr>
 <tr>
   <td colspan="2"><strong>Historia de usuario:</strong>
