@@ -50,13 +50,13 @@ Modelo de desarrollo XP
 
 <table >
 <tr>
-  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de horario laboral</td>
-  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
+  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de gastos</td>
+  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>3</td>
 </tr>
 <tr>
   <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
-    Como administrador se necesita un control de los empleados en cuanto a su horario laboral
+    Se necesite que la aplicación lleve un control de los gastos del negocio
   </td>
 </tr>
 <tr>
@@ -69,13 +69,13 @@ Modelo de desarrollo XP
 
 <table >
 <tr>
-  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Inventario de productos</td>
-  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
+  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de ganancias</td>
+  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>4</td>
 </tr>
 <tr>
   <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
-    Como administrador se necesita un manejo del inventario completo del negocio
+    Se necesita un control de las ventas diarias y totales del mes
   </td>
 </tr>
 <tr>
@@ -88,13 +88,13 @@ Modelo de desarrollo XP
 
 <table >
 <tr>
-  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Inventario de productos</td>
-  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>1</td>
+  <td WIDTH="400" HEIGHT="50"><strong>Título:</strong>Control de ganancias</td>
+  <td WIDTH="200" HEIGHT="50"><strong>Id:</strong>4</td>
 </tr>
 <tr>
   <td colspan="2" HEIGHT="200" align="left" valign="top"><strong>Historia de usuario:</strong>
     <br>
-    Como administrador se necesita un manejo del inventario completo del negocio
+    Se necesita un control de las ventas diarias y totales del mes
   </td>
 </tr>
 <tr>
@@ -102,5 +102,3 @@ Modelo de desarrollo XP
   <td><strong>Estimacion</strong>(Dias):</td>
 </tr>
 </table>
-
-<br>
